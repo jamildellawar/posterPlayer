@@ -1,0 +1,32 @@
+{
+    "IDs": [
+        152520843314,
+        563596255279,
+        1046591529097,
+        1046645727441,
+        635033444568,
+        906337804359
+    ],
+    "Items": {
+        "152520843314": {
+            "Spotify ID":"album:6pwuKxMUkNg673KETsXPUV",
+            "Item Name": "Kids See Ghosts",
+            "Creator": "Kids See Ghosts"
+        },
+        "563596255279": {
+            "Spotify ID":"album:2Tyx5dLhHYkx6zeAdVaTzN",
+            "Item Name": "GO:OD AM",
+            "Creator": "Mac Miller"
+        },
+        "1046591529097": {
+            "Spotify ID":"album:2nkto6YNI4rUYTLqEwWJ3o",
+            "Item Name": "Flower Boy",
+            "Creator": "Tyler, the Creator"
+        },
+        "1046645727441": {
+            "Spotify ID": "album:7ycBtnsMtyVbbwTfJwRjSP",
+            "Item Name": "To Pimp a Butterfly",
+            "Creator": "Kendrick Lamar"
+        }
+    }
+}
